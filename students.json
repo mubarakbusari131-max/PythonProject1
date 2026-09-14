@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Busari Mubarak",
+    "age": 19,
+    "course": "Civil Engineering",
+    "subject": "PCME",
+    "reg_id": "AF03EXMFT001"
+  },
+  {
+    "name": "Busari Yusuf",
+    "age": 19,
+    "course": "AGRICULTURE ENGINEERING",
+    "subject": "PCME",
+    "reg_id": "AF03EXMFT002"
+  },
+  {
+    "name": "Ajadi Ibrahim",
+    "age": 20,
+    "course": "MECHANICAL ENGINEERING",
+    "subject": "PCME",
+    "reg_id": "AF03EXMFT003"
+  }
+]
