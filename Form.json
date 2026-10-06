@@ -1,0 +1,44 @@
+[
+  {
+    "email": "mubarak131@gmail.com",
+    "name": "Opeyemi Odule",
+    "course": "Civil Engineering",
+    "sub_comb": "PCME",
+    "reg_id": "AFO3EXMFT001"
+  },
+  {
+    "email": "opeyemi123@gmail.com",
+    "name": "salawu",
+    "course": "Agricultural Science",
+    "sub_comb": "PCBE",
+    "reg_id": "AFO3EXMFT002"
+  },
+  {
+    "email": "muiz145@gmail.com",
+    "name": "TAYE",
+    "course": "Ecnomics",
+    "sub_comb": "GLIE",
+    "reg_id": "AFO3EXMFT003"
+  },
+  {
+    "email": "Tayeakinolagungu@gmail.com",
+    "name": "Akinolagunju",
+    "course": "Arabic Studies",
+    "sub_comb": "GLIE",
+    "reg_id": "AFO3EXMFT004"
+  },
+  {
+    "email": "aminahadewale123@gmail.com",
+    "name": "Adewale Aminah",
+    "course": "Medicine and surgery",
+    "sub_comb": "PCBE",
+    "reg_id": "AFO3EXMFT005"
+  },
+  {
+    "email": "mubarakbusari131@gmail.com",
+    "name": "Mubarak Busari",
+    "course": "Civil Enginering",
+    "sub_comb": "PCME",
+    "reg_id": "AFO3EXMFT006"
+  }
+]
