@@ -1,7 +1,7 @@
 import json
 import os
 
-FILE_NAME = "Form.json"
+FILE_NAME = "../Form.json"
 
 def save_student(student_data, filename=FILE_NAME):
     with open(filename, "w") as f:

@@ -1,5 +1,5 @@
 import re
-from subfile import Student, save_student, load_student
+from Kivy_form.subfile import Student, save_student, load_student
 def valid_email(email):
     pattern = r"^[\w]+@[\w]+\.[\w]{2,}$"
     return re.match(pattern, email) is not None
